@@ -1,4 +1,4 @@
-# Building_crack_object_detection_android_app_using_Custom_Yolov5
+# Building_crack_classification_object_detection_android_app_using_Custom_Yolov5
 
 ## YOLOv5 Object Detection for Crack Classification
 
