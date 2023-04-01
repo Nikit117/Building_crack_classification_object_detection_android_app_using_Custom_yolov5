@@ -6,8 +6,9 @@ This project aims to detect and classify cracks in images using a custom YOLOv5 
 The project includes an Android application that allows users to capture images of cracks and classify them using the custom YOLOv5 model. The application is built using Android Studio and is available in the form of an APK, which can be downloaded from this [link](https://github.com/Nikit117/Building_crack_object_detection_android_app_using_Custom_yolov5/blob/main/apk.rar).
 
 ---
-![Image link](https://github.com/Nikit117/Building_crack_object_detection_android_app_using_Custom_yolov5/blob/main/demo.jpg)
---- 
+<img src="demo.jpg" width="250" />
+
+---
 
 ## Installation
 
