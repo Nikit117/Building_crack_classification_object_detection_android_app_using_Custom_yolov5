@@ -5,7 +5,7 @@
 
 This project aims to detect and classify cracks in images using a custom YOLOv5 object detection algorithm. The crack classification is divided into three categories: minor, moderate, and severe. The YOLOv5 model has been customized by modifying the `yolov5s.yaml` configuration file. The model is trained on a custom dataset of crack images, which was created by collecting images from various sources.
 The project includes an Android application that allows users to capture images of cracks and classify them using the custom YOLOv5 model. The application is built using Android Studio and is available in the form of an APK, which can be downloaded from this [link](https://github.com/Nikit117/Building_crack_object_detection_android_app_using_Custom_yolov5/blob/main/apk.rar).
-
+* [Watch Video Demo here 👆](https://www.linkedin.com/posts/activity-7028047707411804160-6XaX?utm_source=share&utm_medium=member_desktop) 
 ---
 <img src="demo.jpg" width="250" />
 
